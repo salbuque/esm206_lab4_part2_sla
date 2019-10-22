@@ -40,5 +40,10 @@ iris_graph <- ggplot(data = iris, aes(x = Petal.Width, y = Petal.Length)) +
 ggplotly(iris_graph)
 
 ```
+### B. Interactive table with DT()
+
+```{r}
+datatable(msleep)
+```
 
 
