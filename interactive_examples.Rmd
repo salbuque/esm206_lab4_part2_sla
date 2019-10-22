@@ -1,0 +1,12 @@
+---
+title: "interactive_graph_examples"
+author: "Simone Albuquerque"
+date: "October 22, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here we'll practice creating some interactive graphs and tables, using built -in data sets in R Packages. In Interactive plots we'll start using (plotly) and for interactive tables DT(). 
