@@ -1,1 +1,5 @@
-# esm206_lab4_part2_sla
+# My First README & Repository on Github! 
+  -this is where I would put information that would be useful
+  -like variable definitions, references, meta data? '
+  
+  
